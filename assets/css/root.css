@@ -31,39 +31,39 @@
     font-size: var(--fs-4sm);
 }
 
-.fs-6sm {
+.fs_6sm {
     font-size: var(--fs-6sm);
 }
 
-.fs-8sm {
+.fs_8sm {
     font-size: var(--fs-8sm);
 }
 
-.fs-md {
+.fs_md {
     font-size: var(--fs-md);
 }
 
-.fs-1md {
+.fs_1md {
     font-size: var(--fs-1md);
 }
 
-.fs-4md {
+.fs_4md {
     font-size: var(--fs-4md);
 }
 
-.fs-6md {
+.fs_6md {
     font-size: var(--fs-6md);
 }
 
-.fs-6lg {
+.fs_6lg {
     font-size: var(--fs-6lg);
 }
 
-.fs-6xl {
+.fs_6xl {
     font-size: var(--fs-6xl);
 }
 
-.fs-4xxl {
+.fs_4xxl {
     font-size: var(--fs-4xxl);
 }
 
