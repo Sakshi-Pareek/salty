@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@400;500&family=Sen:wght@700&display=swap');
+@import url(../css/root.css);
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none !important;
+    list-style-type: none !important;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+
+}
+
+.max_w42 {
+    max-width: 42px;
+}
+
+.bg_web {
+    background: var(--web-bg)
+}
